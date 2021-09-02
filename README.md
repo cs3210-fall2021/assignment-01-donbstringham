@@ -2,9 +2,9 @@
 
 This assignment will allow you to use what you have learned from the PluralSight assignment.  Put all the assignment files in the `src/` folder.
 
-## Full Name (5 points)
+## Don Stringham (5 points)
 
-`Github username`
+`donbstringham`
 
 ## Exercise 01 (5 points)
 
